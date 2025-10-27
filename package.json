@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "chart.js": "^4.5.1",
+    "date-fns": "^4.1.0",
+    "jest": "^30.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.4",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "name": "gemini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ok34090640-dotcom/gemini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ok34090640-dotcom/gemini-project/issues"
+  },
+  "homepage": "https://github.com/ok34090640-dotcom/gemini-project#readme"
+}
